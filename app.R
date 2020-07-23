@@ -16,7 +16,7 @@ library(magrittr)
 library(lubridate)
 library(tidyverse)
 
-#options(rsconnect.locale = "pt_br.utf-8")
+#options(rsconnect.locale = "pt_br.utf-8") #tentando resolver problema de locale
 
 temazul <- create_theme(
   theme = "cerulean",
