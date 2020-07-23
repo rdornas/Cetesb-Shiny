@@ -16,7 +16,7 @@ library(magrittr)
 library(lubridate)
 library(tidyverse)
 
-options(rsconnect.locale = "pt_br.utf-8")
+#options(rsconnect.locale = "pt_br.utf-8")
 
 temazul <- create_theme(
   theme = "cerulean",
