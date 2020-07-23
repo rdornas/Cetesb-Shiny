@@ -1,0 +1,13 @@
+name: cetesb_poluentes
+title: cetesb_poluentes
+username:
+account: rdornas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2564052
+bundleId: 3425879
+url: https://rdornas.shinyapps.io/cetesb_poluentes/
+when: 1595509221.4863
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rbuildignore|data-raw/.Rapp.history|www/cetesb_CEECF5.png|www/cetesb.png|R
